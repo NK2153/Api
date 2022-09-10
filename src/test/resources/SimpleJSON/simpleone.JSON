@@ -1,0 +1,22 @@
+{
+	"name": "MersalNK",
+	"id": 5678,
+	"role": "QA",
+	"cources": [
+		"mersal",
+		"Java",
+		"Selenium"
+	],
+	"address": [
+		{
+			"city": "Erode",
+			"state": "TN",
+			"country": "India"
+		},
+		{
+			"city": "Palakolu",
+			"state": "Ap",
+			"country": "India"
+		}
+	]
+}
